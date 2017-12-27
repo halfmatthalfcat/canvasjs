@@ -3,6 +3,7 @@
 
 # npm
 npm-*
+package-lock.json
 
 #editors
 *~
@@ -10,6 +11,7 @@ npm-*
 *.swo
 .idea
 .DS_Store
+.idea
 
 # test
 test/browser-build.js
