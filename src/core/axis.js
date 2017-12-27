@@ -13,6 +13,8 @@ import {
     getFontHeightInPixels
 } from '../helpers/utils';
 
+import { constants } from '../constants/culture';
+
 function Axis(chart, options, type, position) {
 
 	Axis.base.constructor.call(this, "Axis", options, chart.theme);

@@ -1,6 +1,6 @@
 {
   "name": "canvasjs",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "description": "CanvasJS charting library",
   "main": "src/main/index.js",
   "scripts": {
